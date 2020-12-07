@@ -1,0 +1,2 @@
+C:\Users\Kamogelo\Documents\Kamogelo Assignments\Kamogelo Xaba\ILABTesting\ILABTesting\obj\Debug\ILABTesting.csprojAssemblyReference.cache
+C:\Users\Kamogelo\Documents\Kamogelo Assignments\Kamogelo Xaba\ILABTesting\ILABTesting\obj\Debug\ILABTesting.csproj.CoreCompileInputs.cache
